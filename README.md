@@ -2,7 +2,7 @@
 
 ## About this Project
 Simple project demonstrating a login card created with Create React App, React Router, and Tailwind.  
--  [Live Link](https://toxin-finder.netlify.app/)
+-  [Live Link](https://login-card-simple.netlify.app/)
 
 ## Tools used
 
