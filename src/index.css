@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#nav {
+  background-color:  rgb(20 83 45);
+}
+
+#login-card {
+  background-color:  rgb(20 83 45);
+}
+
+#login-card-field {
+  background-color: #1e741b; 
+}
+
+#login-card-button {
+  background-color: #22a11e;
+}
